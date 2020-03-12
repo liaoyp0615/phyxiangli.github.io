@@ -33,7 +33,7 @@ Event simulation and reconstruction:
 + Investigate non-purturbative process for muon events.  
 + Apply BDT to event reconstruction.  
 
-### Theoretical
+## Theoretical
 #### Research: 
 + See-saw mechanism. (*Advisor: Prof. Haijun Wang, Jilin University*)   
 + Soliton solutions for Yang-Mills fields, especially Witten & BPS monopoles. (*Advisor: Prof. Haijun Wang, Jilin University*)   
