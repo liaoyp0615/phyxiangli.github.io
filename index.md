@@ -14,8 +14,8 @@
   </tr>
 </table>
 
-<h1> Research Interests & Experience </h1>
-<h2> Current:</h2> 
+# Research Interests & Experience 
+## Current:## 
 **BESIII, CGEM, Undergraduate thesis, Jilin University & IHEP.** (*Advisor: Prof. Weimin Song, Prof. Liangliang Wang, Prof. Linghui Wu, Prof. Gang Li*)  
 Improvement for sampling efficiency for avalanche electrons in CGEM for BESIII. 
 ## Previous:
@@ -34,12 +34,10 @@ Event simulation and reconstruction:
 + Apply BDT to event reconstruction.  
 
 ### Theoretical
-#### Research
 * See-saw mechanism. (*Advisor: Prof. Haijun Wang, Jilin University*)   
 * Soliton solutions for Yang-Mills fields, especially Witten & BPS monopoles. (*Advisor: Prof. Haijun Wang, Jilin University*)
-#### Projects & Course work
-* Matter effects for sterile neutrinos in MiniBooNE. (*Instructor: Prof. Michael Wilking, Stony Brook University*)  
-* Topological strings, Amplitude calculation for string phenomenology & compatification, AdS-CFT correspondence. (*Instructor: Prof. Warren Siegel, YITP, Stony Brook University*)  
+* Matter effects for sterile neutrinos in MiniBooNE. (*Project, Instructor: Prof. Michael Wilking, Stony Brook University*)  
+* Topological strings, Amplitude calculation for string phenomenology & compatification, AdS-CFT correspondence. (*Tutorial, Instructor: Prof. Warren Siegel, YITP, Stony Brook University*)  
 
 # Publication:
 *A paper about my work in Harvard is in progress*
