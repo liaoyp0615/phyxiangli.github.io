@@ -35,8 +35,8 @@ Event simulation and reconstruction:
 
 ### Theoretical
 #### Research: 
-+ See-saw mechanism. (*Advisor: Prof. Haijun Wang, Jilin University*)   
-+ Soliton solutions for Yang-Mills fields, especially Witten & BPS monopoles. (*Advisor: Prof. Haijun Wang, Jilin University*)  
+* See-saw mechanism. (*Advisor: Prof. Haijun Wang, Jilin University*)   
+* Soliton solutions for Yang-Mills fields, especially Witten & BPS monopoles. (*Advisor: Prof. Haijun Wang, Jilin University*)  
 #### Projects & course work:
 + Matter effects for sterile neutrinos in MiniBooNE. (*Instructor: Prof. Michael Wilking, Stony Brook University*)  
 + Topological strings, Amplitude calculation for string phenomenology & compatification, AdS-CFT correspondence. (*Instructor: Prof. Warren Siegel, YITP, Stony Brook University*)  
