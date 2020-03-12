@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-## Research Interests & Experience
+# Research Interests & Experience
 ## Current: 
 **BESIII, CGEM, Undergraduate thesis, Jilin University & IHEP.** (*Advisor: Prof. Weimin Song, Prof. Liangliang Wang, Prof. Linghui Wu, Prof. Gang Li*)  
 Improvement for sampling efficiency for avalanche electrons in CGEM for BESIII. 
@@ -31,7 +31,8 @@ Event simulation and reconstruction:
 + Simulate events of weak interaction in superK with SKDETSIM.  
 + Reconstruct the events by FiTQun with 3D & 6D light scattering tables and compare the reconstrction qualities.  
 + Investigate non-purturbative process for muon events.  
-+ Apply BDT to event reconstruction.
++ Apply BDT to event reconstruction.  
+
 ### Theoretical
 #### Research: 
 + See-saw mechanism. (*Advisor: Prof. Haijun Wang, Jilin University*)   
@@ -39,8 +40,8 @@ Event simulation and reconstruction:
 #### Projects & course work:
 + Matter effects for sterile neutrinos in MiniBooNE. (*Instructor: Prof. Michael Wilking, Stony Brook University*)  
 + Topological strings, Amplitude calculation for string phenomenology & compatification, AdS-CFT correspondence. (*Instructor: Prof. Warren Siegel, YITP, Stony Brook University*)   
-## Publication:
+# Publication:
 *A paper about my work in Harvard is in progress*
-## Contact Info
+# Contact Info
 **Work:** xiangli@ucsd.edu  
 **Personal:** xiang.li.215@outlook.com & xiang.li.aex@gmail.com
